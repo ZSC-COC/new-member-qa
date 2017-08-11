@@ -2,18 +2,19 @@
 
 这个页面是由2017计机新生群管理组创建的，目的是让新生们快速解决自己的疑惑，避免在群内一次又一次地问重复&没有意义的问题
 
-部分回答来自[<a href="http://zsb.zsc.edu.cn">中山学院招生信息网</a>][1]
-剩下的部分则来自师兄师姐们的回答。如有错误，纰漏，请<a href="https://github.com/FsHtroy/ZSC-New-member-Q-A/issues/new">提交Issues</a>，我们会尽快更正。
+部分回答来自[中山学院招生信息网](http://zsb.zsc.edu.cn)<sup>1</sup>   
+剩下的部分则来自师兄师姐们的回答。如有错误，纰漏，请[提交Issues][Link2NewIssue]，我们会尽快更正。
 
 ------
 
 ## 这个页面是怎么用的？
 
  1. 请善用你的Ctrl-F功能，查找你所关心的内容。
- 2. 如果这个页面没有你想知道的问题，可以联系群主or管理员,或者<a href="https://github.com/FsHtroy/ZSC-New-member-Q-A/issues/new">提交Issues</a>，相信他们会给予你满意的答复。
- 3. <a href="https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md">请阅读提问的智慧 How To Ask Questions The Smart Way</a>
+ 2. 如果这个页面没有你想知道的问题，可以联系群主or管理员,或者[提交Issues][Link2NewIssue]，相信他们会给予你满意的答复。
+ 3. [请阅读提问的智慧 How To Ask Questions The Smart Way][Link2HowToAskQuestion]
 
 ------
+
 ## Q&A问题分类
 
  1. <a href="#1关于学校">关于学校（环境|地理位置）</a>
@@ -26,9 +27,11 @@
  8. 其他事项（报到要带的资料|银行卡|生活用品）
 
 ------
+
 ### 1.关于学校
+
 Q:学校环境如何？   
-A:请到<a href="http://www.zsc.edu.cn/accessory.php?tack=index">学校图库</a>查看
+A:请到[学校图库](http://www.zsc.edu.cn/accessory.php?tack=index)查看
 
 Q:学校的地理位置怎么样？   
 A:学校位于中山市石岐区市中心，临近中山市政府及大信新都汇、假日广场。附近有医院、一加一超市、大润发超市。
@@ -42,6 +45,7 @@ A:有空调但没有暖气。
 ------
 
 ### 2.交通
+
 Q:学校附近有哪些公交车站？   
 A:有 中山学院北门、中山学院西门、市人大 站。
 
@@ -55,10 +59,10 @@ Q:自己/父母开车到学校要怎么走？
 A:请参考导航软件，导航至中山学院北门/南门;届时可能车流较大，遇堵车是很正常的，学校应该会协调周边停车场提供停车位置，以及开放学校内部停车位，请听从学校保安人员指引。
 
 Q:中山北站与中山站是同一个站吗？   
-A:不是，中山北站只停城轨列车（C开头），中山站可停高铁及城轨。请购票时注意区分。
+A:**不是**，中山北站只停城轨列车（C开头），中山站可停高铁及城轨。请购票时注意区分。
 
 Q:怎么样购买城轨车票？   
-A:请到12306.cn或使用手机下载12306程序购买，并携带有效证件取票，或者到各火车票代售点、车站购买（可能会被收取手续费）。
+A:请到<http://www.12306.cn>或使用手机下载12306程序购买，并携带有效证件取票，或者到各火车票代售点、车站购买（可能会被收取手续费）。
 
 Q:请问有公共自行车或者共享单车吗?   
 A:都有，共享单车目前已经入驻的品牌有：摩拜，ofo，永安行，优拜。
@@ -69,6 +73,7 @@ A:投币两元，岭南通不打折，中山通5折。
 ------
 
 ### 3.住宿
+
 Q:宿舍是几人间？   
 A:一般为四人间。
 
@@ -76,7 +81,7 @@ Q:住宿价格？
 A:1700元/学年。
 
 Q:宿舍新吗？   
-A:看个人感觉。
+A:今年新建成的朝晖苑蛮新的，其他的宿舍也蛮不错的。主要看个人感觉。
 
 Q:有没有门禁？   
 A:有，周日到周四为11点半，周五周六为12点。
@@ -85,7 +90,7 @@ Q:电费怎么算？
 A:宿舍所有人平摊，0.677元一度电，预付费模式，余额不足立即停电。
 
 Q:能选宿舍吗？   
-A:新生宿舍分配采用“网上选房”进行。8月25日12:00—8月31日12:00期间，登陆“迎新服务网”（网址<a href="http://yxfw.zsc.edu.cn">http://yxfw.zsc.edu.cn</a>）进行全额缴费，确认预报到后，即可“网上选房”；未完成网上选房的，将在报到现场安排住宿。PS:原则上先到先选。
+A:新生宿舍分配采用“网上选房”进行。8月25日12:00—8月31日12:00期间，登陆“迎新服务网”（网址<http://yxfw.zsc.edu.cn>）进行全额缴费，确认预报到后，即可“网上选房”；未完成网上选房的，将在报到现场安排住宿。PS:原则上先到先选。
 
 Q:能不能买洗衣机，在宿舍放台式电脑？   
 A:可以。
@@ -106,7 +111,7 @@ Q:能不能吸烟酗酒？
 A:原则上不允许，为了身体健康及舍友的感受，请勿在宿舍吸烟。
 
 Q:有什么禁忌事项吗？   
-A:请看宿舍违纪通报例子:http://url.cn/4CKVk3o
+A:请看宿舍违纪通报例子:<http://url.cn/4CKVk3o>
 
 Q:能在宿舍摆放自行车吗？   
 A:目前在宿舍内可以，但摆放在宿舍过道/楼梯底下绝对不行，为了你的爱车着想，请尽量抬回自己宿舍。
@@ -132,6 +137,7 @@ A:都有。
 ------
 
 ### 4.饮食
+
 Q:学校有哪些饭堂？   
 A:学校有四个饭堂，分别是龙腾餐厅、凤翔餐厅、岐头餐厅和香山餐厅。
 
@@ -148,7 +154,7 @@ Q:有外卖吗？
 A:大部分餐厅均有外卖服务，可以下载外卖软件（如：饿了么）进行订餐。由于学校规定，一般是不能送上宿舍，请不要与宿舍管理员争论关于外卖送上宿舍的问题。
 
 Q:饮料店多吗？   
-A:多，连饭堂里面都有..
+A:多，连饭堂里面都有.. 
 
 Q:餐饮花费大吗?   
 A:这个问题不作解释，中山消费水平不高。
@@ -156,6 +162,7 @@ A:这个问题不作解释，中山消费水平不高。
 ------
 
 ### 5.学习
+
 Q:我想先预习一下大一的课程，应该学些什么？   
 A:大一一般是学习C/C++语言，具体以当年教学内容为准。
 
@@ -163,8 +170,8 @@ Q:我想买些书看，有推荐的吗？
 A:C++ Primer Plus [美] Stephen Prata 著；张海龙，袁国忠 译 人民邮电出版社,可以在京东上试读，觉得合适再购买。
 
 Q:有视频教程吗？   
-A:这里提供由NTA网络科技协会录制的<a href="http://pan.baidu.com/s/1i5M2B8x">C++入门教程</a>   
-以及翁恺的<a href="https://www.bilibili.com/video/av6001731">程序设计入门</a>   
+A:这里提供由NTA网络科技协会录制的[C++入门教程](http://pan.baidu.com/s/1i5M2B8x)   
+以及翁恺的[程序设计入门](https://www.bilibili.com/video/av6001731)   
 视频版权归创作者所有。
 
 Q:我可以一开学就带电脑过来吗？   
@@ -177,20 +184,20 @@ A:我也不知道你想买来干嘛，你说你要玩游戏我当然会推荐
 4K 屏幕组三屏   
 万元水冷温度压   
 至于你说你要买来学习，我相信只要不太差的电脑IDE都是可以运行起来的。   
-推荐想问这个问题的同学，到百度贴吧-<a href="http://tieba.baidu.com/f?kw=笔记本吧">笔记本吧</a>去看看。
+推荐想问这个问题的同学，到百度贴吧-[笔记本吧](http://tieba.baidu.com/f?kw=笔记本吧)去看看。
 
 Q:电脑要装什么编程软件吗？   
-A:如果是学习C/C++语言，可以使用的IDE有很多，比如DEV-C++，Visual Studio，code::blocks，你可以在新生群-群文件中的编程软件目录找到他们的安装包。至于什么是IDE，<a href="https://baike.baidu.com/item/%E9%9B%86%E6%88%90%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/298524?fr=aladdin&fromid=8232086&fromtitle=IDE">这里有介绍</a>。
+A:如果是学习C/C++语言，可以使用的IDE有很多，比如DEV-C++，Visual Studio，code::blocks，你可以在新生群-群文件中的编程软件目录找到他们的安装包。至于什么是IDE，[这里有介绍](https://baike.baidu.com/item/%E9%9B%86%E6%88%90%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/298524?fr=aladdin&fromid=8232086&fromtitle=IDE)。
 
 Q:学校图书馆大吗？有没有自习位   
 A:我认为是比较大的，自习位也是充足的。空调也是开放的。在新生入学的时候，班导一般都会带你们去参观图书馆，图书馆借书需要用到饭卡。
 
 Q:我都有些什么课？这个专业是学什么的？   
-A:请参阅<a href="http://jsjxy.zsc.edu.cn/index.php?m=content&c=index&a=lists&catid=6">计算机学院专业介绍</a>[2]，开学后班导/辅导员一般会提供专业人才培养方案给你们。
+A:请参阅[计算机学院专业介绍](http://jsjxy.zsc.edu.cn/index.php?m=content&c=index&a=lists&catid=6)<sup>2</sup>，开学后班导/辅导员一般会提供专业人才培养方案给你们。
 
 Q:可以转专业吗？   
-A:可以，一般转专业的时间为第一学期期末，此时可以申请跨学科转专业，第四学期期末，符合条件的学生可以申请同属同一学科大类的转专业。学生成功转专业（以发文为准）后不得再次申请转专业。1*   
-详情请参阅<a href="http://zsb.zsc.edu.cn/baokao/show.php?lang=cn&id=18">转专业政策</a>。
+A:可以，一般转专业的时间为第一学期期末，此时可以申请跨学科转专业，第四学期期末，符合条件的学生可以申请同属同一学科大类的转专业。学生成功转专业（以发文为准）后不得再次申请转专业。<sup>1*</sup>   
+详情请参阅[转专业政策](http://zsb.zsc.edu.cn/baokao/show.php?lang=cn&id=18)。
 
 Q:一般都有什么考试？   
 A:按照不同课程的安排有不同的设置，期末考一般都有，其余的小测、期中考要咨询授课老师。
@@ -208,13 +215,13 @@ Q:能作弊吗？
 A:你说呢？
 
 Q:学校有什么实验室？好玩吗？   
-A:实验室请看<a href="http://zsb.zsc.edu.cn/environment/">实验室列表</a>，实验室不是去玩的。
+A:实验室请看[实验室列表](http://zsb.zsc.edu.cn/environment/)，实验室不是去玩的。
 
 Q:学校有参加/组织什么竞赛？   
-A:请看<a href="http://zsb.zsc.edu.cn/fengcai/">列表</a>，其中计算机学院参加ACM竞赛、博弈竞赛等。
+A:请看[列表](http://zsb.zsc.edu.cn/fengcai/)，其中计算机学院参加ACM竞赛、博弈竞赛等。
 
 Q:2+2学科要怎么转入？会被踢出来吗？   
-A:可以参阅招生办给出的<a href="http://zsb.zsc.edu.cn/baokao/show.php?lang=cn&id=19">热点关注</a>。
+A:可以参阅招生办给出的[热点关注](http://zsb.zsc.edu.cn/baokao/show.php?lang=cn&id=19)。
 
 Q:早读晚修一定要去吗？   
 A:一定要，各班会按时点名，学生会每天必检。
@@ -228,16 +235,24 @@ A:四六级考试一般在6月/12月各有一场，2016年入学的同学在第�
 ------
 
 ## 你还有想问的？
+
 那你一定是没有看开头了   
-如果这个页面没有你想知道的问题，可以联系群主or管理员,或者<a href="https://github.com/FsHtroy/ZSC-New-member-Q-A/issues/new">提交Issues</a>
+如果这个页面没有你想知道的问题，可以联系群主or管理员,或者[提交Issues][Link2NewIssue]
 
 ------
-外部链接注释:   
-  [1]: http://zsb.zsc.edu.cn 2017年版本   
-  [2]: http://jsjxy.zsc.edu.cn/index.php?m=content&c=index&a=lists&catid=6 2017年8月
-  
-政策注释：
-  1* 电子科技大学中山学院转专业实施办法 2017年版
+
+### 外部链接注释:
+
+- **[1]** <http://zsb.zsc.edu.cn> 2017年版本
+- **[2]** <http://jsjxy.zsc.edu.cn/index.php?m=content&c=index&a=lists&catid=6>  2017年8月
+
+### 政策注释：
+
+- **1\*** 电子科技大学中山学院转专业实施办法 2017年版
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">作品</span>采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
+
+
+[Link2NewIssue]: https://github.com/FsHtroy/ZSC-New-member-Q-A/issues/new
+[Link2HowToAskQuestion]: https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md
