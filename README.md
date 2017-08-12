@@ -31,7 +31,7 @@
 ### 1. 关于学校
 
 Q: 学校环境如何？   
-A: 请到[学校图库](http://www.zsc.edu.cn/accessory.php?tack=index)查看
+A: 请到[学校图库](http://www.zsc.edu.cn/accessory.php?tack=index)查看,这里提供一个[720°学校全景影像](http://www.gy720.com/pano/view/1739&v=ok)可以更直观的看到学校的情况。
  
 Q: 学校的地理位置怎么样？   
 A: 学校位于中山市石岐区市中心，临近中山市政府及大信新都汇、假日广场。附近有医院、一加一超市、大润发超市。
@@ -277,6 +277,7 @@ A: 不参加的话下一学年得重新参加， 军训是一门必修课。 去
  - [hangxingliu](https://github.com/hangxingliu)
  - [WEGFan](https://github.com/WEGFan)
  - [qingchengliu](https://github.com/qingchengliu)
+ - [DarkNeoHQ](https://github.com/DarkNeoHQ)
 
 ------
 
