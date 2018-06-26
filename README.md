@@ -321,4 +321,4 @@ A: 不参加的话下一学年得重新参加， 军训是一门必修课。 去
 [Link2NewIssue]: https://github.com/FsHtroy/ZSC-New-member-Q-A/issues/new
 [Link2IDEdownload]: https://github.com/FsHtroy/ZSC-New-member-Q-A/blob/master/IDEdownlink.md
 [Link2HowToAskQuestion]: https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md
-[Link2IDEWiki]: https://baike.baidu.com/item/%E9%9B%86%E6%88%90%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/298524?fr=aladdin&amp;amp;fromid=8232086&amp;amp;fromtitle=IDE
+[Link2IDEWiki]: https://baike.baidu.com/item/%E9%9B%86%E6%88%90%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/298524
