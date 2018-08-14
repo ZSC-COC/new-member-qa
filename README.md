@@ -203,7 +203,7 @@ Q: 为什么我的录取情况显示计算机类？
 A: 计算机学院按照“计算机类”大类招生，各个专业基础课程完全打通，学生入校一年后再根据专业学习情况，结合自己兴趣和特长选择专业（计算机科学与技术、软件工程、网络工程、数字媒体技术），进入专业培养。
 
 Q: 我都有些什么课？这些专业是学什么的？   
-A: 请参阅 [计算机学院专业介绍](http://jsjxy.zsc.edu.cn/index.php?m=content&c=index&a=lists&catid=6) <sup>2</sup>，开学后班导/辅导员一般会提供专业人才培养方案给你们。
+A: 请参阅 [计算机学院专业介绍](http://zsb.zsc.edu.cn/faculties/show.php?lang=cn&id=23) <sup>2</sup>，开学后班导/辅导员一般会提供专业人才培养方案给你们。
 
 Q: 我想先预习一下大一的课程，应该学些什么？   
 A: 大一一般是学习 C/C++ 语言，具体以当年教学内容为准。
@@ -408,7 +408,7 @@ A: 新款安耐晒或sofina，根据自身来选择，可参考[评测](https://
 ### 外部链接注释
 
 - **[1]** <http://zsb.zsc.edu.cn> 2018年版本
-- **[2]** <http://jsjxy.zsc.edu.cn/index.php?m=content&c=index&a=lists&catid=6>  2018年6月
+- **[2]** <http://zsb.zsc.edu.cn/faculties/show.php?lang=cn&id=23>  2018年
 
 ### 政策注释
 
