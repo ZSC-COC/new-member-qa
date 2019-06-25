@@ -269,7 +269,7 @@ Q: 学校有什么社团？
 A: 社团招新有社团日，缴纳费用即可进入。多种多样的社团，到时可根据自己情况来选择加入。详情请看[社团介绍](http://zsb.zsc.edu.cn/zsxx/xywh/xsst/)。
 
 Q: 2+2学科要怎么转入？会被踢出来吗？   
-A: 可以参阅招生办给出的 [2+2联合培养实验班项目解读](http://zsb.zsc.edu.cn/zsxx/zx/zskx/1de4ms04kh7p3.shtml) 。
+A: 可以参阅招生办给出的 [热点关注](http://zsb.zsc.edu.cn/zsxx/bkzn/rdgz/index.html) 或 [2+2联合培养实验班项目解读](http://zsb.zsc.edu.cn/zsxx/zx/zskx/1de4ms04kh7p3.shtml) 。
 
 Q: 早读晚修一定要去吗？   
 A: 一定要，各班会按时点名，学生会每天必检。
