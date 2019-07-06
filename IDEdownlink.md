@@ -1,11 +1,12 @@
 # 下载链接分类
 
- 1. [C/C++](#1-cc)
+ - [C/C++](#1-ccpp)
+ - [JAVA](#2-JAVA)
  
 ------
  
 ## 1. C/C++
-(1).  Visual Studio:  
+(1) Visual Studio:  
     Microsoft Visual Studio（简称VS）是美国微软公司的开发工具包系列产品。  
     
     Visual Studio 2019:
@@ -35,7 +36,7 @@
     
     
 ## 2. JAVA
-(1) eclipse
+(1) eclipse  
     eclipse 是 eclipse基金会(现) 开发并开源的IDE开发环境
 
     官网:https://www.eclipse.org/downloads/
