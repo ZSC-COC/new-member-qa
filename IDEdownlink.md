@@ -42,7 +42,7 @@
     官网:https://www.eclipse.org/downloads/
     官网64bit版本下载链接:https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2019-06/R/eclipse-inst-win64.exe
     
-(2) IDEA
+(2) IDEA  
     ItelliJ IDEA 是 JetBrains公司开发的IDE开发环境, 其中 Community 版是免费并开源的.
     
     官网:https://www.jetbrains.com/idea/download
