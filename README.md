@@ -251,6 +251,18 @@ A: 大学生活无解之谜
 
 ### 5. 学习
 
+Q: 2019 - 2020 的校历表？
+
+A: [你最关心的下学年啥时候上学放假，都在这里！](https://mp.weixin.qq.com/s/al5RTfHHabv3Y3bdi0IiDQ) 官方推文，以下图片来自该推文。
+
+![image-20190725202754990](assets/image-20190725202754990.png)
+
+
+
+![image-20190725202818591](assets/image-20190725202818591.png)
+
+
+
 Q: **届** 和 **级** 区别？
 
 A: 16 届指的是在 16 年毕业，届指的的毕业那年；16 级指的是 16 年入学，级指的是入学那一年；适用于本科生。专插本，留级等等情况不适用。（感谢热心网民三线
@@ -535,4 +547,3 @@ Q: 关于学生宿舍更加具体的运营商分布信息
 [Link2IDEdownload]: https://github.com/FsHtroy/ZSC-New-member-Q-A/blob/master/IDEdownlink.md
 [Link2HowToAskQuestion]: https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md
 [Link2IDEWiki]: https://baike.baidu.com/item/%E9%9B%86%E6%88%90%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/298524
-
