@@ -541,7 +541,9 @@ Q: 关于学生宿舍更加具体的运营商分布信息
 - **1\*** 电子科技大学中山学院转专业实施办法 2017 年版
 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本 < span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">作品 </span > 采用 < a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"> 知识共享署名 - 非商业性使用 4.0 国际许可协议</a > 进行许可。
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本 <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">作品 </span> 采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"> 知识共享署名 - 非商业性使用 4.0 国际许可协议</a> 进行许可。
+
+请尊重他人，不要肆意改变仓库设置，再有一次直接private
 
 
 [Link2NewIssue]: https://github.com/FsHtroy/ZSC-New-member-Q-A/issues/new
