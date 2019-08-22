@@ -9,7 +9,7 @@
 
 ## 1.1. 这个页面是怎么用的
 
-1. 通过点击下方目录的蓝字快速跳转。(因为一些原因目录暂缺)
+1. 通过点击下方目录的蓝字快速跳转。(因为一些原因目录暂缺) **要么你就不要动，要么你就改好他，ok?做一半不做一半算什么?**
 2. 请善用浏览器的 `Ctrl-F` 快捷键功能（mac `command + F`），用关键字，查找你所关心的关内容。
 3. 如果这个页面没有你想知道的问题，可以联系群主 or 管理员, 或者 [提交 Issues][Link2NewIssue] ，相信他们会给予你满意的答复。
 4. 提问前可去 2019 计机新生群 (<u>929993581</u>) 群文件看一遍 2019 新生入学须知。
@@ -542,6 +542,8 @@ Q: 关于学生宿舍更加具体的运营商分布信息
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本 <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">作品 </span> 采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"> 知识共享署名 - 非商业性使用 4.0 国际许可协议</a> 进行许可。
+
+另：禁止学生会，团委，纵梦xxx，社联以任何形式在本文抽取，转发内容，即使是转原文链接
 
 请尊重他人，不要肆意改变仓库设置，再有一次直接private
 
