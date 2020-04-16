@@ -6,7 +6,7 @@
 
 部分回答来自 [中山学院招生信息网](http://zsb.zsc.edu.cn)<sup>1</sup> 
 
-剩下的部分则来自师兄师姐们的回答。如有错误，纰漏以及任何建议，请 [提交 Issues][Link2NewIssue] ，我们会尽快更正。
+剩下的部分则来自师兄师姐们的回答。如有错误，纰漏以及任何建议，请 [提交 Issue][Link2NewIssue] ，我们会尽快更正。另参[怎么提交Issue](./WriteIssue.md)
 
 
 ## 这个页面是怎么用的
