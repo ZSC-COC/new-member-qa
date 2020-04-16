@@ -10,7 +10,7 @@
 
 1. 回到 Q&A, 点击上方的 Issue  
     1. `Title` 就是标题的意思, 在里面写上标题  
-    1. 下面 `Leave a comment` 就是写具体的东西, 可以空着, 如果你发现没有办法先, 可能 是你不小心点到旁边的 `Preview` 了, 点 `Write` 回到编辑  
+    1. 下面 `Leave a comment` 就是写具体的东西, 可以空着, 如果你发现没有办法写, 可能是你不小心点到旁边的 `Preview` 了, 点 `Write` 回到编辑  
     1. 点击 `Submit new issue` 提交 Issue  
     
 1. 不必太过拘谨, 师兄师姐又不会吃人 <del>(吃的特别多的倒是有</del>  
