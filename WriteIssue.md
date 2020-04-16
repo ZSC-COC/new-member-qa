@@ -4,7 +4,7 @@
 `Issue` 就是 `问题, 议题` 的意思  
 
 1. **如果**你还没有 Github 账号  
-    1. 点击右上角 `Sign Up` 注册, `Username` 即用户名稍微注意一点填, 可能会陪伴你一生 <del><font color='white'>(但其实也没有那么重要, 因为可以随便改昵称, 别写什么 big dick 应该没问题</font></del>  
+    1. 点击右上角 `Sign Up` 注册, `Username` 即用户名稍微注意一点填, 可能会陪伴你一生 <del>(但其实也没有那么重要, 因为可以随便改昵称, 别写什么 big dick 应该没问题</del>  
     1. `Email address` 是邮箱地址 `Password` 是密码  
     1. 然后一直点continue, 如果你看得懂英文就自己仔细填一下 (= =  
 
