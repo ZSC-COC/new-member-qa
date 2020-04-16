@@ -6,7 +6,8 @@
 ------
  
 ## 1. C/C++
-(1) Visual Studio:  
+
+- Visual Studio:  
     Microsoft Visual Studio（简称VS）是美国微软公司的开发工具包系列产品。  
     
     Visual Studio 2019:
@@ -36,13 +37,14 @@
     
     
 ## 2. JAVA
-(1) eclipse  
+
+- eclipse  
     eclipse 是 eclipse基金会(现) 开发并开源的IDE开发环境
 
     官网:https://www.eclipse.org/downloads/
     官网64bit版本下载链接:https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2019-06/R/eclipse-inst-win64.exe
     
-(2) IDEA  
+- IDEA  
     ItelliJ IDEA 是 JetBrains公司开发的IDE开发环境, 其中 Community 版是免费并开源的.
     
     官网:https://www.jetbrains.com/idea/download
