@@ -1,5 +1,4 @@
 
-
 # 欢迎访问中山学院计算机新生群 Q&A
 
 这个页面是由 2017 计机新生群管理组创建的，现在由 2020 计机新生群管理组维护，目的是让新生们快速解决自己的疑惑，避免在群内一次又一次地问重复 & 没有意义的问题。
@@ -7,7 +6,6 @@
 部分回答来自 [中山学院招生信息网](http://zsb.zsc.edu.cn)<sup>1</sup> 
 
 剩下的部分则来自师兄师姐们的回答。如有错误，纰漏以及任何建议，请[提交 Issue][Link2NewIssue] ，我们会尽快更正。另参[怎么提交 Issue](./WriteIssue.md) 。
-
 
 ## 这个页面是怎么用的
 
@@ -59,7 +57,7 @@ A: 700 亩。
 
 Q: 学校师资如何?
 
-A: 还可以，也有总校老师，也有划水的（x），[详情点看](http://zsb.zsc.edu.cn/msfc/xkdt/)
+A: 还可以，也有成都总校（电子科技大学）老师，[详情点看](http://zsb.zsc.edu.cn/msfc/xkdt/)
 
 Q: 学校学风如何?
 
@@ -89,7 +87,7 @@ Q: 2020 级新生的学费是多少？
 
 A: 2020 级新生，文科、理科类普通专业 26000 元/学年；艺术类专业 28000 元/学年。
 
-每学年还有1500住宿费+500教材费。
+每学年还有 1500 元住宿费和 500 元教材费。
 
 ### 2. 入学相关
 
@@ -127,7 +125,7 @@ Q: 学校附近有哪些公交车站？
 
 A: 有 中山学院北门、中山学院西门、市人大站、富豪山庄站。
 
-Q: 广东省内怎么样来学校？   
+Q: 广东省内怎么样来学校？
 
 A: 有以下几种方式
 
@@ -197,8 +195,6 @@ A: 收快递点如下图
 | 朝晖苑 |                         | 女生宿舍                   | 操场旁，最近出校门口为南门           |
 |  凤翔  | 1 - 5                   | 女生宿舍                   | 图书馆旁，最近出校门口为南门         |
 
-
-
 Q: 男生能不能进女生宿舍，女生能不能进男生宿舍？
 
 A: 绝大部分情况是不可能的, 有特殊情况（工作需要）, 但请不要有歪心思。
@@ -234,8 +230,6 @@ A: 会送一点电费, 超出的(一般来讲)宿舍所有人平摊，约0.677 �
 > [看过来！这个时间段无法进行水电费网上充值查询](https://mp.weixin.qq.com/s/uDWjj4kZCqe3y9XI-d-fQA)  
 >
 > 来自莲峰后勤推文
-
-
 
 Q: 宿舍晚上停电吗？
 
@@ -532,13 +526,12 @@ A:
 3. 学校奖励：参阅 [电子科技大学中山学院学生奖励办法](http://zsb.zsc.edu.cn/xsjz/xxjl/) 
 4. 社会捐助：参阅 [电子科技大学中山学院社会捐资助学办法（试行）](http://zsb.zsc.edu.cn/xsjz/shjz/) 
 
-
 Q: 奖学金获得条件
 
-A: 
+A:
 
 1. 奖学金评选的对象一般要求没有违纪，没有挂科且成绩优异。
-2. 学生享受国家奖学金、国家励志奖学金、国家助学金、学校奖学金、优秀新生奖学金、冯汉柱奖学金、吴桂显奖学金、利丰助学金等奖助学金，奖学金最高额度为每人 8000 元 / 年。   
+2. 学生享受国家奖学金、国家励志奖学金、国家助学金、学校奖学金、优秀新生奖学金、冯汉柱奖学金、吴桂显奖学金、利丰助学金等奖助学金，奖学金最高额度为每人 8000 元 / 年。
 
 Q: 助学贷款要怎么办理？
 
@@ -692,18 +685,17 @@ Q: 关于学生宿舍更加具体的运营商分布信息
 
 如果这个页面没有你想知道的问题，可以联系群主 or 管理员，或者 [提交 Issues][Link2NewIssue]
 
-
 ## 感谢为本 Q&A 做过贡献的作者（排名不分先后）
 
- - [hangxingliu](https://github.com/hangxingliu)
- - [WEGFan](https://github.com/WEGFan)
- - [qingchengliu](https://github.com/qingchengliu)
- - [DarkNeoHQ](https://github.com/DarkNeoHQ)
- - @V(麟导)   
- - [kalends](https://github.com/miuDkalends)
- - [AExiaoliou](https://github.com/AExiaoliou)
- - [techial](https://github.com/techial1042)
- - [三线](https://github.com/easyjack)
+- [hangxingliu](https://github.com/hangxingliu)
+- [WEGFan](https://github.com/WEGFan)
+- [qingchengliu](https://github.com/qingchengliu)
+- [DarkNeoHQ](https://github.com/DarkNeoHQ)
+- @V(麟导)
+- [kalends](https://github.com/miuDkalends)
+- [AExiaoliou](https://github.com/AExiaoliou)
+- [techial](https://github.com/techial1042)
+- [三线](https://github.com/easyjack)
 
 ### 外部链接注释
 
@@ -720,7 +712,6 @@ Q: 关于学生宿舍更加具体的运营商分布信息
 另：禁止学生会，团委，纵梦xxx，社联以任何形式在本文抽取，转发内容，即使是转原文链接
 
 请尊重他人，不要肆意改变仓库设置，再有一次直接private
-
 
 [Link2NewIssue]: https://github.com/FsHtroy/ZSC-New-member-Q-A/issues/new
 [Link2IDEdownload]: https://github.com/FsHtroy/ZSC-New-member-Q-A/blob/master/IDEdownlink.md
