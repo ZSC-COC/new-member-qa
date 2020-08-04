@@ -9,7 +9,7 @@
     1. 然后一直点continue, 如果你看得懂英文就自己仔细填一下 (= =  
 
 1. 回到 Q&A, 点击上方的 [Issues](/../../issues) 
-    1. 然后点击 [New issue](/../../issues/new/choose)
+    1. 然后点击 [New issue](/../../issues/new)
     1. `Title` 就是标题的意思, 在里面写上标题  
     1. 下面 `Leave a comment` 就是写具体的东西, 可以空着, 如果你发现没有办法写, 可能是你不小心点到旁边的 `Preview` 了, 点 `Write` 回到编辑  
     1. 点击 `Submit new issue` 提交 Issue  
