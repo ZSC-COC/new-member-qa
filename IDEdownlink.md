@@ -1,8 +1,8 @@
 # 下载链接分类
 
-- [C/C++](#1. C/C++)
-- [JAVA](#2. Java)
-- [Python](#3. Python)
+- [C/C++](##1.-C/C++)
+- [JAVA](##2.-Java)
+- [Python](##3.-Python)
 
 ------
 
@@ -33,7 +33,7 @@ Microsoft Visual Studio（简称VS）是美国微软公司的开发工具包系�
 
 **我们现在不推荐Visual Studio 2012, 因为实在是太老旧了**
 
-## 2. JAVA
+## 2. Java
 
 ### IDEA
 
