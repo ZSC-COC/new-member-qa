@@ -55,6 +55,10 @@ Q: 学校有多大？
 
 A: 700 亩。
 
+Q: 学校地图
+
+A: https://user-images.githubusercontent.com/107590048/176123765-a4d0ea0b-554b-44be-947d-079e934a9af5.jpg
+
 Q: 学校师资如何?
 
 A: 还可以，也有成都总校（电子科技大学）老师，[详情点看](http://zsb.zsc.edu.cn/msfc/xkdt/)
