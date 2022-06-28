@@ -690,7 +690,7 @@ Q: 关于学生宿舍更加具体的运营商分布信息
 - [kalends](https://github.com/miuDkalends)
 - [AExiaoliou](https://github.com/AExiaoliou)
 - [techial](https://github.com/techial1042)
-- [三线](https://github.com/easyjack)
+- [三线](https://github.com/san3Xian)
 - [Melody](https://github.com/MElody9120)
 - [LRWF](https://github.com/LRWF)
 
