@@ -560,7 +560,7 @@ A: 入门计算机不难，难的是提起对计算机的兴趣. 大多数学生
 
 Q: 学校附近有什么超市吗？
 
-A: 学校北门对面有信和超市（小型），大信 · 新都汇一期有大润发超市，不是很远。
+A: 学校北门旁边有多间小型商铺，大信 · 新都汇一期有大润发超市，不是很远，新都汇二期也有超市。
 
 Q: 学校附近有网吧吗？
 
@@ -690,7 +690,7 @@ Q: 关于学生宿舍更加具体的运营商分布信息
 - [kalends](https://github.com/miuDkalends)
 - [AExiaoliou](https://github.com/AExiaoliou)
 - [techial](https://github.com/techial1042)
-- [三线](https://github.com/easyjack)
+- [三线](https://github.com/san3Xian)
 - [Melody](https://github.com/MElody9120)
 - [LRWF](https://github.com/LRWF)
 
