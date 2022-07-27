@@ -485,7 +485,7 @@ A: 竞赛请看 [列表](https://zsb.zsc.edu.cn/xzfc/xkjs/) ，其中计算机�
 
 Q: 学校有什么社团？
 
-A: 社团招新有社团日，缴纳费用即可进入。多种多样的社团，到时可根据自己情况来选择加入。详情请看[社团介绍](https://zsb.zsc.edu.cn/zsxx/xywh/xsst/)。
+A: 社团招新有社团日，缴纳费用即可进入。多种多样的社团，到时可根据自己情况来选择加入。详情请看[社团介绍](https://mp.weixin.qq.com/s/JgfjdsxpDmGasfI-0pxGng)(2021-10月版本)。
 
 ~~Q: 2+2 学科要怎么转入？会被踢出来吗？~~
 
